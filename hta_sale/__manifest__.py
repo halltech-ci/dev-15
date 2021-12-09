@@ -24,7 +24,7 @@
 
     # always loaded
     'data': [
-        'security/ir.model.access.csv',
+        #'security/ir.model.access.csv',
         'views/views.xml',
         'views/templates.xml',
         'report/sale_report_template.xml',
@@ -33,4 +33,6 @@
     'demo': [
         'demo/demo.xml',
     ],
+    
+    'license': 'LGPL-3',
 }
